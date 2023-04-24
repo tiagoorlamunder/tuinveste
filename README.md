@@ -48,7 +48,6 @@ Trello: https://trello.com/invite/accept-team
 
 ## Diagrama de Atividades
 
-![image](documents/artifacts/atividade.png)
 ![image](https://user-images.githubusercontent.com/61787168/234136106-76d0bb01-df00-4f90-9f9c-a7b84982f0f7.png)
 
 ## Mockups
