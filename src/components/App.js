@@ -1,10 +1,12 @@
 import './App.css';
-import Header from './components/Header'
+import Header from './Header'
+import ScrollBar from './ScrollBar'
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <ScrollBar />
     </div>
   );
 }
