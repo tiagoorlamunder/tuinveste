@@ -51,11 +51,15 @@ Trello: [Kanban Tuinveste](https://trello.com/b/yFJ4mpMA/kanban-tuinveste)
 
 ## Caso de Uso
 
-
+![Tuinveste - Casos de Uso](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/1a3493f7-818a-4258-96b5-041d6d15d347)
 
 ## Diagrama de Atividades
 
 ![image](https://user-images.githubusercontent.com/61787168/234136106-76d0bb01-df00-4f90-9f9c-a7b84982f0f7.png)
+
+## Diagrama de Arquitetura
+
+![arquitetura](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/08fea103-1c0a-4dea-bec0-7252b6c1d227)
 
 ## Mockups
 
