@@ -20,7 +20,8 @@ Tuinveste - Simulador de Investimentos
 Criar um sistema para simular diferentes tipos de investimentos, no qual seja possível calcular com base no valor e/ou no tempo desejado, possibilitando também, salvar o resultado do cálculo.
 
 ## Gerenciamento do Projeto
-Trello: https://trello.com/invite/accept-team
+Trello: [Kanban Tuinveste](https://trello.com/b/yFJ4mpMA/kanban-tuinveste)
+![image](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/51fdcf19-5c1c-464a-8e5f-79d7b7a6f980)
 
 # Especificação do Projeto
 
@@ -36,6 +37,8 @@ Trello: https://trello.com/invite/accept-team
 
 - O sistema deve informar o valor contido em cada jarra.
 
+- O sistema deve possuir a opção de criar conta e efetuar login.
+
 ## Requisitos Não-Funcionais
 
 - O sistema deve ser capaz de lidar com um grande número de usuários e transações de forma eficiente, sem lentidão ou travamento. Os tempos de resposta devem ser rápidos e consistentes, e o sistema deve ser capaz de lidar com cargas de pico sem degradação do desempenho;
@@ -45,6 +48,10 @@ Trello: https://trello.com/invite/accept-team
 - O sistema deve ser amigável e fácil de navegar, com uma interface limpa e intuitiva;
 
 - O sistema deve rodar em plataforma WEB e deve fornecer um banco de dados para armazenar os dados de cadastro e informações adicionais do usuário;
+
+## Caso de Uso
+
+
 
 ## Diagrama de Atividades
 
