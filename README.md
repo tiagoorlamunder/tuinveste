@@ -59,7 +59,7 @@ Trello: [Kanban Tuinveste](https://trello.com/b/yFJ4mpMA/kanban-tuinveste)
 
 ## Diagrama de Arquitetura
 
-![Diagrama em branco](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/feb3b734-f8ff-41a3-bd33-5c00c0e93116)
+![Diagrama em branco (1)](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/b1c3af25-c13e-478b-874c-a2e6c92d41df)
 
 ## Mockups
 
