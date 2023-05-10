@@ -1,0 +1,52 @@
+.login {
+    background-color: #151419;
+    position: relative;
+    text-align: center;
+}
+
+.formulario form h1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 25px;
+}
+
+.formulario form h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #69686D;
+}
+
+.formulario div {
+    padding-top: 25px;
+}
+
+.formulario form h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #69686D;
+}
+
+.formulario form h5:hover {
+    color: #9B1536;
+    text-decoration: underline;
+}
+
+.formulario form button {
+    margin-top: 0px;
+}
+
+.formulario form .buttons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 540px;
+}
