@@ -29,7 +29,11 @@ Trello: [Kanban Tuinveste](https://trello.com/b/yFJ4mpMA/kanban-tuinveste)
 
 - O sistema deve calcular e mostrar a taxa utilizada, bem como o retorno do investimento ao mês em diferentes modalidades de investimentos como CDB, LCI e LCA.
 
-- O sistema deve mostrar a quantia do rendimento em um extrato, informando também os descontos legais como IR e afins.
+- O sistema deve mostrar a quantia do rendimento em um extrato, informando também os descontos legais como: IR, os 15% em caso de tributação progressiva e os descontos de tributação regressiva de acordo com a alíquota do plano de investimento, respeitando a tabela abaixo.
+<br>
+
+![image](https://github.com/tiagoorlamunder/tuinveste/assets/61787168/e2bd9961-ce7a-430c-9d39-6ba43de31e5c)
+
 
 - O sistema deve fornecer descrição superficial dos investimentos (exemplo: O que é um CDB?).
 
